@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and discussion
+    url: https://github.com/syncropic/syncropel/discussions
+    about: For questions, ideas, and open-ended conversation, please use Discussions.
+  - name: Security vulnerabilities
+    url: https://github.com/syncropic/syncropel/blob/main/SECURITY.md
+    about: For security issues, please follow the disclosure process in SECURITY.md — do NOT open a public issue.
+  - name: Documentation
+    url: https://docs.syncropel.com
+    about: Looking for usage guides, API reference, or the FAQ.
