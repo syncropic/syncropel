@@ -60,7 +60,7 @@ For the full specification, see
 ## Two paths to a working instance
 
 **Hosted** — fastest. Sign up at
-[syncropel.com/signup](https://syncropel.com/signup); a per-customer
+[syncropel.com/sign-up](https://syncropel.com/sign-up); a per-customer
 Syncropel instance comes up at `<your-label>.syncropel.app` in about a
 minute. No install, no machine to maintain. Free tier;
 [pricing](https://syncropel.com/pricing) for scale.
