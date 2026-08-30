@@ -2,7 +2,7 @@
 
 Thank you for helping keep Syncropel and its users safe. If you've
 found a security issue, please **don't open a public GitHub issue or
-discussion** — coordinate with us privately first.
+discussion**; coordinate with us privately first.
 
 ---
 
@@ -15,7 +15,7 @@ Email **security@syncropic.com** with:
 - The component affected (the protocol, a specific SDK, the hosted
   product, the documentation site, etc.) and the version where
   applicable.
-- Any proof-of-concept material — please don't post it publicly.
+- Any proof-of-concept material; please don't post it publicly.
 
 If you need to encrypt sensitive material, mention that in your
 first message and we'll coordinate a key exchange.

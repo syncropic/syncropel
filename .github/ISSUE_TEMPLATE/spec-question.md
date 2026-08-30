@@ -7,7 +7,7 @@ labels: question
 
 > For open-ended discussion or design proposals, consider starting in
 > [Discussions](https://github.com/syncropic/syncropel/discussions)
-> instead — issues are better for things with a clear resolution.
+> instead; issues are better for things with a clear resolution.
 
 **Your question**:
 
