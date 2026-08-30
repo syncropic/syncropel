@@ -135,11 +135,11 @@ issue appears, the solution replays automatically.
 - **The kernel (`spl`) is free to download and run** for any purpose,
   including production and commercial use, locally or on our hosted
   service. Its source is not yet public; we intend to publish it once
-  the protocol reaches 1.0. Its license ships with the binary from the
-  next release: every release will carry a written date on which it
-  becomes Apache-2.0, and the one use the license will not permit is
+  the protocol reaches 1.0. The binary ships under the Business
+  Source License 1.1: every release carries a written date on which it
+  becomes Apache-2.0, and the one use the license does not permit is
   reselling Syncropel itself as a hosted service, for which a
-  commercial license will be available.
+  commercial license is available.
 - **Terms only ever loosen.** No right we have granted is ever
   narrowed, the specification never closes, and the SDKs never leave
   Apache-2.0.
